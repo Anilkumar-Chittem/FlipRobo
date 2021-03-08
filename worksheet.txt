@@ -1,0 +1,76 @@
+Statistics Worksheet:
+a1.True .if sucess then distribution is over one variable is p>>1  or failure 0>>1-p
+a2.A-Central limit theorem
+a3.B- used for unbounded count data 
+a4.D
+a5.C-Possion is used to count events
+a6.B-no it does not change
+a7.B
+a8.A
+a9.C-can conform  to regression
+a10.Also known as gaussian distribution is a propabilty distibution that is symmetric about mean forming  a bell curve and mean at the  central peak 
+a11.We need to do  eda  process  understand  what type of  data we  have,how much data is missing in the columns
+    >if we have a huge missing value space in the column then we  can remove it.
+    >if we have categorical missing values  then we need  to find the mode(most frequent occured element) and replace NAN with mode value
+    >if we have numerical miss values  then we need  to find mean(avg of the column)  and replace NAN with mean values
+a12.A/B testing is a basic randomized control experiment.
+    It is a way to compare the two versions of a variable to find out which performs better in a controlled environment.
+a13.No every time it is not  a good idea  to replace with mean cause it  might affect our  model performance .
+    We  can use random forest to handle categorical and  numerical.
+a14.Linear regression gives relationship b/w 2 variables by fitting a linear equation y=mx+c
+    y is dependent and x is independent
+a15.2 types 
+    1.Descriptive-It organizes raw data into meaningful information
+    2.inferential-It analyses sample data to draw conclusion about population
+****************************************************************************************
+SQl worksheet:
+a1.A,B
+a2.A,B
+a3.B
+a4.B
+a5.A
+a6.C
+a7.B
+a8.B
+a9.B
+a10.A
+a11.A Data Warehousing is process for collecting and managing data from varied sources to provide meaningful business insights
+a12.Online transaction processing (OLTP) captures, stores, and processes data from transactions in real time.
+    Online analytical processing (OLAP) uses complex queries to analyze aggregated historical data from OLTP systems.
+a13.Some data is denormalized for simplification and to improve performance.
+    Large amounts of historical data are used.
+    Queries often retrieve large amounts of data.
+    Both planned and ad hoc queries are common.
+    The data load is controlled
+a14.Star Schema in data warehouse, in which the center of the star can have one fact table and a number of associated dimension tables.
+a15.We use  set theory in maths,Set Theory as a Language SETL is a high-level programming language that’s based on the mathematical theory of sets
+***************************************************************************************************
+Machine Learning worksheet:
+a1.B
+a2.D
+a3.D
+a4.A
+a5.B
+a6.D
+a7.A
+a8.B
+a9.A
+a10.A
+a11.D
+a12.C
+a13. 1) calculate the distances 2) link the clusters 3) choose a solution by selecting the right number of clusters.
+a14.To measure a cluster's quality within a clustering, we can compute the average silhouette coefficient value of all objects in the cluster.
+    To measure the quality of a clustering, we can use the average silhouette coefficient value of all objects in the data set. 
+     Silhouette Coefficient or silhouette score is a metric used to calculate the goodness of a clustering technique. Its value ranges from -1 to 1.
+a15.Cluster analysis is the task of grouping a set of data points in such a way that they can be characterized by their relevancy to one another.
+    These techniques create clusters that allow us to understand how our data is related are  of 4 types
+    1.Centroid Clustering-In centroid cluster analysis you choose the number of clusters that you want to classify.
+      The algorithm will start by randomly selecting centroids (cluster centers) to group the data points into the two pre-defined clusters. 
+      A line is then drawn separating the data points into the two clusters based on their proximity to the centroids.
+       The algorithm will then reposition the centroid relative to all the points within each cluster.
+     The centroids and points in a cluster will adjust through all iteratations, resulting in optimized clusters.
+    2.Density Clustering-Density clustering groups data points by how densely populated they are
+    3.Distribution Clustering-Distribution clustering identifies the probability that a point belongs to a cluster
+    4.Connectivity Clustering- connectivity clustering initially recognizes each data point as its own cluster. 
+                   The primary use of this technique is that points closer to each other are more related
+*********************************************************************************************************************************************
