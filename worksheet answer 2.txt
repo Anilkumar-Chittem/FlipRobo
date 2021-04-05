@@ -1,0 +1,48 @@
+machine learning:
+1.b
+2.d
+3.a
+4.a
+5.b
+6.b
+7.a
+8.d
+9.a
+10.a
+11.d
+12.d
+13.because a mean is easily influenced by extreme values
+14.Other clustering algorithms with better features tend to be more expensive. In this case, k-means becomes a great solution for pre-clustering, reducing the space into disjoint smaller sub-spaces where other clustering algorithms can be applied.
+15.The basic k-means clustering is based on a non-deterministic algorithm.The non-deterministic nature of K-Means is due to its random selection of data points as initial centroids.
+SQL:
+1.d
+2.c
+3.a
+4.d
+5.b
+6.d
+7.c
+8.a
+9.b
+10.b
+11.d
+12.c
+13.a
+14.c
+15.c
+Statisctics:
+1.d
+2.c
+3.d
+4.d
+5.d
+6.b
+7.d
+8.b
+9.d
+10.a
+11.c
+12.d
+13.c
+14.b
+15.d
