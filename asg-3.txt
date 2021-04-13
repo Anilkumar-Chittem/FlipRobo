@@ -1,0 +1,35 @@
+Machine laerning 3:
+1.d
+2.a
+3.a
+4.b
+5.d
+6.c
+7.d
+8.a
+9.a
+10.b
+11.a
+12.b
+13.Clustering is an unsupervised machine learning method of identifying and grouping similar data points in larger datasets without concern for the specific outcome.
+14.K-means clustering algorithm can be significantly improved by using a better initialization technique, and by repeating (re-starting) the algorithm. When the data has overlapping clusters, k-means can improve the results of the initialization technique.
+Statistics 3:
+1.b
+2.c
+3.a
+4.a
+5.b
+6.c
+7.b
+8.d
+9.a
+10.Bayes’ theorem describes the probability of an event based on prior knowledge of the conditions that might be relevant to the event.
+11.z-score (also called a standard score) gives you an idea of how far from the mean a data point is.
+12.A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+13.a number where a certain percentage of scores fall below that number.
+14.Analysis of variance is a collection of statistical models and their associated estimation procedures used to analyze the differences among means.
+15.In other words, they help you to figure out if you need to reject the null hypothesis or accept the alternate hypothesis.
+
+Sql 3.
+1-15
+Unabel to do it did not understand
