@@ -1,0 +1,43 @@
+Machine laerning 
+1.c
+2.d
+3.b
+4.b
+5.a
+6.a
+7.b
+8.b,c
+9.d,b
+10.a,d
+11.An outlier is a data point that differs significantly from other observations.Q1 is the first quartile of the data, i.e., to say 25% of the data lies between minimum and Q1 and Q3 is the third quartile of the data, i.e., to say 75% of the data lies between minimum and Q3 The difference between Q3 and Q1 is called the Inter-Quartile Range or IQR.
+12.In Bagging the result is obtained by averaging the responses of the N learners. However, Boosting assigns a second set of weights, this time for the N classifiers, in order to take a weighted average of their estimates.
+13.It measures the proportion of variation explained by only those independent variables that really help in explaining the dependent variable. It penalizes you for adding independent variable that do not help in predicting the dependent variable Adjusted R-squared value can be calculated based on value of r-squared, number of independent variables (predictors), total sample size.
+14.Normalization typically means rescales the values into a range of [0,1]. Standardization typically means rescales data to have a mean of 0 and a standard deviation of 1.
+15.Cross validation is a technique for assessing how the statistical analysis generalises to an independent data set.It is a technique for evaluating machine learning models by training several models on subsets of the available input data and evaluating them on the complementary subset of the data. Using cross-validation, there are high chances that we can detect over-fitting with ease.
+An advantage of using this method is that we make use of all data points and hence it is low bias. The major drawback of this method is that it leads to higher variation in the testing model as we are testing against one data point.
+ 
+Satistics:
+1.The central limit theorem states that if you have a population with mean μ and standard deviation σ and take sufficiently large random samples from the population with replacementtext annotation indicator, then the distribution of the sample means will be approximately normally distributed and important for testing hypotheses in statistical analysis.
+2.sampling is the selection of a subset of individuals from within a statistical population to estimate characteristics of the whole population.1,Clustered sampling 2,random sampling
+3.Type 1 error, in statistical hypothesis testing, is the error caused by rejecting a null hypothesis when it is true. Type II error is the error that occurs when the null hypothesis is accepted when it is not true.
+4.Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean.
+5.Covariance is a measure of how much two random variables vary together. Correlation is a statistical measure that indicates how strongly two variables are related
+6.Univariate statistics summarize only one variable at a time. Bivariate statistics compare two variables.
+Multivariate statistics compare more than two variables.
+7.A sensitivity analysis determines how different values of an independent variable affect a particular dependent variable under a given set of assumptions.
+8. hypothesis is an assertion or conjecture
+concerning one or more populations.H0: the null hypothesis ,H1: the alternate hypothesis Null hypothesis (H0): The null hypothesis here is what currently stated to be true about the population. ... Alternate hypothesis (H1): The alternate hypothesis is always what is being claimed
+9.Quantitative data is information about quantities, and therefore numbers, and qualitative data is descriptive, and regards phenomenon which can be observed but not measured, such as language.
+10.The Range is the difference between the lowest and highest values.Order the data from least to greatest.
+Find the median.
+Calculate the median of both the lower and upper half of the data.
+The IQR is the difference between the upper and lower medians
+11.normal probability distribution, whose underlying standard deviations from the mean create the curved bell shape
+12.z-score
+13.The P value, or calculated probability, is the probability of finding the observed, or more extreme, results when the null hypothesis (H 0) of a study question is true
+14.nCx⋅px⋅(1−p)n−x .
+15.Analysis of variance (ANOVA) is a statistical technique that is used to check if the means of two or more groups are significantly different from each other. ANOVA checks the impact of one or more factors by comparing the means of different samples.
+
+
+SQL
+ 
