@@ -1,0 +1,85 @@
+Machine learning :
+1.c
+2.b
+3.c
+4.c
+5.b
+6.a,d
+7.c,b
+8.c
+9.b
+10.The adjusted R-squared is a modified version of R-squared that has been adjusted for the number of predictors in the model.
+ The adjusted R-squared increases only if the new term improves the model more than would be expected by chance.
+ It decreases when a predictor improves the model by less than expected by chance. The adjusted R-squared can be negative, but it’s usually not.
+ It is always lower than the R-squared.
+11.Lasso is a modification of linear regression, where the model is penalized for the sum of absolute values of the weights. Thus, the absolute values of weight will be (in general) reduced, and many will tend to be zeros.
+  Ridge takes a step further and penalizes the model for the sum of squared value of the weights. Thus, the weights not only tend to have smaller absolute values, but also really tend to penalize the extremes of the weights, resulting in a group of weights that are more evenly distributed
+12.Variance inflation factor (VIF) is a measure of the amount of multicollinearity in a set of multiple regression variables. Mathematically, the VIF for a regression model variable is equal to the ratio of the overall model variance to the variance of a model that includes only that single independent variable
+ rule of thumb commonly used in practice is if a VIF is > 10, you have high multicollinearity.
+13.So that all the values are of same scaled data if there is a difference in scaling then it is tough to train the model with different values.
+14.Mean Absolute Error and the Root Mean Squared Error,adjusted-R² 
+15. Accuracy = (TP+TN)/(TP+FP+FN+TN)
+      0.42
+   Precision = TP/(TP+FP)
+     0.8
+  Recall = TP/(TP+FN)
+  0.45
+Specificity = TN/(TN+FP)
+0.16
+
+
+Statistcs:
+1.d
+2.a
+3.a
+4.c
+5.c
+6.b
+7.c
+8.b
+9.b
+10.Histograms and box plots are graphical representations for the frequency of numeric data values.
+ histograms are better in determining the underlying distribution of the data, box plots allow you to compare multiple data sets better than histograms as they are less detailed and take up less space
+11.
+12.Create a null hypothesis.
+Create an alternative hypothesis.
+Determine the significance level.
+Decide on the type of test you'll use.
+Perform a power analysis to find out your sample size.
+Calculate the standard deviation.
+Use the standard error formula.
+Determine the t-score.
+Find the degrees of freedom.
+Use a t-table.
+13.weibull life data such as survival times of a product.possion with rare events such as number of accidents
+14.outliers
+15.the likelihood function (often simply called the likelihood) measures the goodness of fit of a statistical model to a sample of data for given values of the unknown parameters
+
+
+Sql
+1.a,c,d
+2.a.c,d
+3.c
+4.c
+5.c
+6.b
+7.a
+8.c
+9.d
+10.a
+11.Denormalization is a strategy used on a previously-normalized database to increase performance
+s the process of trying to improve the read performance of a database, at the expense of losing some write performance, by adding redundant copies of data or by grouping data
+12.database cursor is a mechanism that enables traversal over the records in a database.
+13.Data Definition Language (DDL)
+Data Manipulation Language (DML)
+Data Control Language(DCL)
+Transaction Control Language(TCL)
+Data Query Language (DQL)
+14.SQL constraints are used to specify rules for the data in a table.
+
+Constraints are used to limit the type of data that can go into a table. This ensures the accuracy and reliability of the data in the table.
+15.Auto-increment allows a unique number to be generated automatically when a new record is inserted into a table
+
+
+
+
